@@ -1,10 +1,14 @@
-# Crash-Course-2019
-
-React Native Tutorial for Beginners - Crash Course 2019
+# Guess-Number-Game
 
 This project was developed at React Native - The Practical Guide by Maximilian Schwarzmüller
 
 Academind
+
+## App Screen
+ 
+ <p align="center">
+  <img alt="GitHub language count" src="https://github.com/keepact/Crash-Course-2019/blob/master/app-view.png">
+ </p>
 
 ## Tools used:
   
